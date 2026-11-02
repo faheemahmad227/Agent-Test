@@ -1,0 +1,4 @@
+Dependencies checked : 8
+Not found on PyPI:2
+Incompatible with Python 3.11: 1
+Highest requirement: numpy==2.3.0 (>=3.11)
